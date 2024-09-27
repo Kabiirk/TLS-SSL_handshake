@@ -1,4 +1,4 @@
-# README for "Security Analysis of TLS/SSL Handshake and Application Data Protocol"
+# Implementation & Security Analysis of TLS/SSL Handshake and Application Data Protocol
 
 ## Project Overview
 This project, conducted as part of **ECE 628 – Computer Security** at the University of Waterloo. It implements RSA & Ephemeral DHE handshakes between Client & Server from scratch for TLS/SSL protocol (TLS 1.2).
