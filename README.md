@@ -1,7 +1,7 @@
 # Implementation & Security Analysis of TLS/SSL Handshake and Application Data Protocol
 
 ## Project Overview
-This project, conducted as part of **ECE 628 – Computer Security** at the University of Waterloo. It implements RSA & Ephemeral DHE handshakes between Client & Server from scratch for TLS/SSL protocol (TLS 1.2).
+This project, conducted as part of **ECE 628 – Computer Security** at the University of Waterloo, implements RSA & Ephemeral DHE handshakes between Client & Server from scratch for TLS/SSL protocol (TLS 1.2).
 
 It also investigates the security protocols of **Transport Layer Security (TLS)** and **Secure Sockets Layer (SSL)**, focusing on handshake processes and application data protocols. The goal is to assess vulnerabilities, evaluate security mechanisms, and explore improvements in TLS/SSL to ensure secure communication over the internet.
 
